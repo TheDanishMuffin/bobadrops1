@@ -1,0 +1,12 @@
+img {
+    float: left;
+    width: 1000px;
+    margin: 10px;
+    border-color: #07ff66;
+    border-width: 6px;
+    border-style: dotted;
+    border-radius: 10px;
+  }
+  h1 {
+    text-shadow: 2px 2px #ff6f75;
+  }
